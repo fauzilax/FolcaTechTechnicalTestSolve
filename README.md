@@ -1,4 +1,4 @@
-# FolcaTechTechnicalTestSolve
+# FolkaTechTechnicalTestSolve
 
 1. Buat sebuah fungsi max profit
 2. Shift Array
