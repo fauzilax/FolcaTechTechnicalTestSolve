@@ -8,7 +8,7 @@
 
 - Change directory
  
-  ``` cd LoyaltoQoinTechnicalTest```
+  ``` cd FolcaTechTechnicalTestSolve```
  
 - Run The Program
 
