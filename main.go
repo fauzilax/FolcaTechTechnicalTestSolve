@@ -8,7 +8,7 @@ import (
 
 func main() {
 	//No 1 Max Profit
-	fmt.Println(maxprofit.MaxProfit([]int{4, 11, 2, 20, 59, 80}, 2))
+	fmt.Println(maxprofit.MaxProfit([]int{4, 11, 2, 20, 59, 80}, 2)) //output: 85
 
 	//No 2 Shift Array
 	fmt.Println(shiftarray.ShiftArray([]int{1, 2, 3, 4, 5, 6, 7, 8, 9}, 1))  // [4,1,2,7,5,3,8,9,6]
